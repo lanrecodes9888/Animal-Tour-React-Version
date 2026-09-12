@@ -83,10 +83,10 @@ export function Body({ index, prev, nxt, keyDown, randomBtn, currentAnimal }) {
       <footer>
        <h3>About Animal Tour</h3>
        <p>
-        Animal Touri is an educational web application designed to help users explore the facinating world of animals. Browse different animal classes, learn their habitats, diets, scientific classifications, and unique characteristics through an interactive and easy-to-use interface.
+        Animal Tour is an educational web application designed to help users explore the facinating world of animals. Browse different animal classes, learn their habitats, diets, scientific classifications, and unique characteristics through an interactive and easy-to-use interface.
        </p>
        <p>
-        Built with HTML, CSS, and JavaScript to provide an engaging learning experience for students, teachers, and wildlife enthusiasts.
+        Built with React and JavaScript to provide an engaging learning experience for students, teachers, and wildlife enthusiasts.
        </p>
        <p>
         &copy; 2026 Animal Tour. All rights reserved.
