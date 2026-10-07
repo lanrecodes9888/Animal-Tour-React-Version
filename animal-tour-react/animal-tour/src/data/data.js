@@ -368,12 +368,12 @@ export const animalsInfo = [
     name: 'TIGER',
     img: '/mammals-img/tiger.webp',
     about: 'A tiger is a large wild mammal known for its orange coat with black stripes. It is a powerful carnivore that mainly hunts animals. Tigers are excellent swimmers and usually live alone, making their homes in forests, grasslands, and wetlands.',
-    type: 'bird'
+    type: 'mammal'
   },{
     name: 'LIZARD',
     img: '/reptiles-img/lizard.webp',
     about: 'A lizard is a small reptile with four legs, a long tail, and scarly skin. Lizard live in various environments, including forest, grasslands, deserts, and rocky areas. Most feed on insects and other small animals, while some eat plants.',
-    type: 'bird'
+    type: 'reptile'
   },{
     name: 'TOUCAN',
     img: '/birds-img/toucan.jpg',
